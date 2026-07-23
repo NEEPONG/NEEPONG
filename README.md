@@ -1,8 +1,6 @@
 # Hi 👋, I'm Wuttichai Daungyiwa
 
-### A passionate Dart developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NEEPONG&label=Profile views&color=0e75b6&style=flat" alt="NEEPONG" /> </p>
+### A passionate developer
 
 - 🔭 I'm currently working on **My Side Project**
 
