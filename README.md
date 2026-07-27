@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **My Side Project**  
+- 🔭 I’m currently working on **SafeSeat Mini** (Designated Driver Platform)  
 - 🌱 I’m currently learning **TypeScript, Next.js & Kubernetes**  
 - 🛠 Daily driver stack: **Flutter, Dart, Spring Boot, Supabase**  
 - 🎯 Goal: **Mastering System Design**  
@@ -37,7 +37,7 @@
 ## 📌 Featured Projects
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| **My Side Project** | Flutter · Supabase | Cross-platform mobile & web application | [Repo](https://github.com/NEEPONG) |
+| **🚗 SafeSeat Mini** | Flutter · Riverpod · Supabase · REST API | Designated Driver & Safety Platform featuring Real-time Live Map Tracking, Dual-Driver Rating, Lady Mode & Incident Timeline | [Repo](https://github.com/NEEPONG) |
 
 ---
 
