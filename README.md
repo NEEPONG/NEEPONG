@@ -44,11 +44,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NEEPONG&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEEPONG&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NEEPONG&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=NEEPONG&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=0" />
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NEEPONG&layout=compact&theme=default&hide_border=true&langs_count=6&cache_seconds=0" />
 </p>
 
 ---
