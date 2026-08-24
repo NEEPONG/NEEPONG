@@ -53,7 +53,7 @@
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: **neepongno2@gmail.com**  
+- 💌 Email: **wuttichai.daungyiwa@gmail.com**  
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1xLVRd1-PfFe1JoUuwr0AjV-G6etWeGx3/view?usp=sharing)  
 - 🐙 GitHub: [NEEPONG](https://github.com/NEEPONG)
 
