@@ -44,8 +44,8 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NEEPONG&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEEPONG&layout=compact&hide_border=true" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NEEPONG&show_icons=true&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NEEPONG&layout=compact&theme=tokyonight)
 </div>
 
 ---
