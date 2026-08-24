@@ -43,10 +43,9 @@
 ---
 
 ## 📈 GitHub Stats
-<div align="center">
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NEEPONG&show_icons=true&theme=tokyonight)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NEEPONG&layout=compact&theme=tokyonight)
-</div>
+  ![GitHub Streak](https://streak-stats.demolab.com?user=NEEPONG&theme=tokyonight)
 
 ---
 
