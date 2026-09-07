@@ -14,9 +14,9 @@
 - 🛠 Daily driver stack: **Flutter, Dart, Spring Boot, Supabase**  
 - 🎯 Goal: **Mastering System Design**  
 - 💬 Ask me about: **Web Development & Mobile Development**  
-- ⚡ Fun fact: **I think I am a little bit lazy**  
+- ⚡ Fun fact: **I think I am a little overthinking**  
 - 📄 Experiences & Resume: [View Resume](https://drive.google.com/file/d/1xLVRd1-PfFe1JoUuwr0AjV-G6etWeGx3/view?usp=sharing)  
-- 📫 Reach me: **neepongno2@gmail.com** | [GitHub](https://github.com/NEEPONG)
+- 📫 Reach me: **wuttichai.daungyiwa@gmail.com** | [GitHub](https://github.com/NEEPONG)
 
 ---
 
